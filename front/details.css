@@ -1,0 +1,11 @@
+.detail-container{
+    background-color: white;
+}
+
+@media (min-width: 1300px) {
+    .container {
+        width: 800 px;
+        margin: 0 auto; 
+    }
+
+}
